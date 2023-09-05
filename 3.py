@@ -40,7 +40,8 @@ if __name__=="__main__":
     print("---------------------------------")
     print("1:Add Tocart")
     print("2:Display cart")
-    print("3:Exit")
+    print("3:Checkout")
+    print("4:Exit")
     print("---------------------------------\n\n")
 
     Show_Mycart(Product_list)
